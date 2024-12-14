@@ -1,0 +1,22 @@
+name carbon-emission-env
+channels
+  - defaults
+  - conda-forge
+dependencies
+  - python=3.10
+  - pip
+  - geopandas
+  - google
+  - matplotlib
+  - numpy
+  - os
+  - pandas
+  - pickle
+  - rasterio
+  - scipy
+  - seaborn
+  - shap
+  - shapely
+  - sklearn
+  - xgboost
+  - pip []
